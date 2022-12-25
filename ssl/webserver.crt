@@ -1,0 +1,106 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            52:9d:af:f4:ea:26:72:20:a4:ef:8f:45:3e:34:4f:73
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=RU, ST=Moscow State, O=BMSTU, OU=IU4-11, CN=Ermakov Dmitriy
+        Validity
+            Not Before: Dec  3 10:58:27 2022 GMT
+            Not After : Dec  3 10:58:27 2023 GMT
+        Subject: C=RU, ST=Moscow State, O=BMSTU, OU=IU4-11, CN=192.168.141.129
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:9f:e1:48:01:7f:5a:a6:0f:f0:57:db:4f:d9:3d:
+                    a6:13:8c:7c:24:83:f2:9e:0c:a1:38:4e:44:fd:b6:
+                    ff:29:c4:86:b6:ea:14:4b:01:a1:8e:99:14:ab:33:
+                    45:44:e8:2c:82:af:62:69:66:75:5e:62:ec:40:48:
+                    9f:dc:c6:d5:f1:a4:5f:67:b6:63:20:c4:ce:2d:2e:
+                    95:81:01:50:32:30:91:f4:8e:94:8c:92:df:f0:73:
+                    da:e5:c9:12:e2:3f:ee:63:ef:fa:ee:34:e1:9a:0c:
+                    3e:1b:4a:c3:32:51:28:dd:33:a4:8e:a6:c0:7e:31:
+                    26:88:56:fb:ab:da:f9:1b:53:c2:dc:1d:6f:39:e6:
+                    ef:b2:50:a4:16:0a:0c:cc:7c:12:7b:bb:83:39:37:
+                    45:2c:83:fd:9d:9d:b6:3c:ed:a9:23:5d:51:66:91:
+                    da:d0:d7:34:c3:05:2f:06:cd:dc:27:5d:b6:50:36:
+                    92:b6:90:f3:bd:cf:c9:3b:e9:f3:b6:20:ab:a0:4c:
+                    43:6f:10:ea:c3:d4:4e:60:16:bd:b2:a4:fc:1f:05:
+                    5c:f5:e5:d2:05:75:55:bf:f1:13:a0:fe:78:4c:3d:
+                    28:dc:d8:2d:fa:6d:8d:db:8c:fe:19:62:55:04:f4:
+                    23:b4:c1:76:4a:c6:35:be:c7:f6:8a:c9:b2:82:5c:
+                    e5:c9
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                A4:93:25:D8:15:01:CB:7E:74:C5:3C:DF:D7:FA:15:6D:04:17:FB:5E
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication, TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Non Repudiation, Key Encipherment, Data Encipherment
+            X509v3 Subject Key Identifier: 
+                A1:19:A5:49:D4:18:64:F6:2E:F4:06:C3:5A:0C:79:A1:80:7F:64:F3
+            X509v3 Subject Alternative Name: 
+                IP Address:192.168.141.129
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        70:bb:49:5f:a8:da:2a:8b:98:7e:0d:87:78:20:0c:35:38:85:
+        f8:57:11:0d:50:d5:2a:63:99:e0:65:70:01:45:0e:18:1b:51:
+        11:4a:46:e9:3b:eb:7c:53:0f:0d:06:1b:4f:32:ea:d8:06:8c:
+        b3:7d:73:92:c7:2b:8a:a4:82:f4:10:bc:58:0b:51:56:41:da:
+        3f:31:43:ad:da:69:a3:16:f0:a5:5b:93:62:7a:42:b5:e3:7f:
+        fd:c9:60:3d:9e:b4:bd:eb:f3:71:f8:35:cb:c5:93:4d:76:81:
+        f4:0c:02:d6:cb:26:7f:7a:3d:39:99:14:d8:b8:19:96:ec:b5:
+        e2:0c:9f:dd:20:ef:18:32:aa:9a:5d:47:dc:f2:33:ec:2c:8e:
+        54:bd:9c:9b:3d:35:4a:5e:b9:2e:cd:5b:c2:41:c1:67:21:ee:
+        82:94:12:88:f1:93:c1:d6:ab:c4:db:eb:59:c2:c9:a8:c5:6a:
+        ea:da:26:f8:02:36:6e:ce:5b:c0:0d:c0:a9:7d:8a:c8:11:0a:
+        ec:a3:53:bf:66:19:25:d5:2c:cb:95:0f:69:e2:68:77:3d:06:
+        31:0b:63:17:a3:b8:d0:a9:e8:25:57:ac:77:2b:d6:7a:df:de:
+        72:af:02:0f:fa:cd:ff:4e:11:bb:cb:9e:6a:6b:e7:20:ce:0a:
+        5c:93:cd:e8:6a:c5:fc:b1:4a:29:ea:83:89:83:9d:69:3d:91:
+        df:6c:7a:44:e6:76:ff:87:27:fb:67:5d:0c:63:02:27:55:b1:
+        e9:ab:cb:ab:4c:86:16:96:a3:9e:51:29:ff:e1:85:1c:f0:c4:
+        be:8e:18:92:20:4d:9c:67:8b:f7:6b:f0:eb:54:d7:e0:9c:66:
+        fd:e6:7a:ad:d1:22:37:5e:a3:fe:75:64:94:93:33:81:0a:ac:
+        da:30:3d:b9:cf:07:21:3b:51:4a:8b:58:57:a9:a2:41:dc:6c:
+        fa:16:8a:e4:d4:f6:5c:c5:dd:77:b7:2a:ec:17:0e:4f:a0:12:
+        10:10:46:fb:51:79:5c:06:b4:73:66:97:a2:6f:90:bf:3d:dc:
+        d6:2d:92:9b:70:ea:82:24:96:20:03:db:f6:ea:ea:88:48:48:
+        e6:82:1e:52:f7:26:f0:92:99:99:f5:c5:70:62:00:73:b6:1d:
+        5b:39:8f:dc:1a:5e:0c:8e:c7:47:62:92:c0:bd:4c:1f:5b:99:
+        59:83:c9:84:6c:6c:d8:63:94:25:b4:c8:a0:d4:ea:4c:00:0d:
+        f4:95:8c:ef:b9:4e:21:fa:b2:c3:2f:c2:26:a5:af:b3:50:c9:
+        71:de:cd:5f:d1:92:6f:47:96:15:87:79:bd:34:40:44:79:a4:
+        74:e8:ed:d8:87:ff:1f:1a
+-----BEGIN CERTIFICATE-----
+MIIE1zCCAr+gAwIBAgIQUp2v9OomciCk749FPjRPczANBgkqhkiG9w0BAQsFADBf
+MQswCQYDVQQGEwJSVTEVMBMGA1UECAwMTW9zY293IFN0YXRlMQ4wDAYDVQQKDAVC
+TVNUVTEPMA0GA1UECwwGSVU0LTExMRgwFgYDVQQDDA9Fcm1ha292IERtaXRyaXkw
+HhcNMjIxMjAzMTA1ODI3WhcNMjMxMjAzMTA1ODI3WjBfMQswCQYDVQQGEwJSVTEV
+MBMGA1UECAwMTW9zY293IFN0YXRlMQ4wDAYDVQQKDAVCTVNUVTEPMA0GA1UECwwG
+SVU0LTExMRgwFgYDVQQDDA8xOTIuMTY4LjE0MS4xMjkwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQCf4UgBf1qmD/BX20/ZPaYTjHwkg/KeDKE4TkT9tv8p
+xIa26hRLAaGOmRSrM0VE6CyCr2JpZnVeYuxASJ/cxtXxpF9ntmMgxM4tLpWBAVAy
+MJH0jpSMkt/wc9rlyRLiP+5j7/ruNOGaDD4bSsMyUSjdM6SOpsB+MSaIVvur2vkb
+U8LcHW855u+yUKQWCgzMfBJ7u4M5N0Usg/2dnbY87akjXVFmkdrQ1zTDBS8Gzdwn
+XbZQNpK2kPO9z8k76fO2IKugTENvEOrD1E5gFr2ypPwfBVz15dIFdVW/8ROg/nhM
+PSjc2C36bY3bjP4ZYlUE9CO0wXZKxjW+x/aKybKCXOXJAgMBAAGjgY4wgYswHwYD
+VR0jBBgwFoAUpJMl2BUBy350xTzf1/oVbQQX+14wHQYDVR0lBBYwFAYIKwYBBQUH
+AwIGCCsGAQUFBwMBMAsGA1UdDwQEAwIE8DAdBgNVHQ4EFgQUoRmlSdQYZPYu9AbD
+Wgx5oYB/ZPMwDwYDVR0RBAgwBocEwKiNgTAMBgNVHRMBAf8EAjAAMA0GCSqGSIb3
+DQEBCwUAA4ICAQBwu0lfqNoqi5h+DYd4IAw1OIX4VxENUNUqY5ngZXABRQ4YG1ER
+SkbpO+t8Uw8NBhtPMurYBoyzfXOSxyuKpIL0ELxYC1FWQdo/MUOt2mmjFvClW5Ni
+ekK143/9yWA9nrS96/Nx+DXLxZNNdoH0DALWyyZ/ej05mRTYuBmW7LXiDJ/dIO8Y
+MqqaXUfc8jPsLI5UvZybPTVKXrkuzVvCQcFnIe6ClBKI8ZPB1qvE2+tZwsmoxWrq
+2ib4AjZuzlvADcCpfYrIEQrso1O/Zhkl1SzLlQ9p4mh3PQYxC2MXo7jQqeglV6x3
+K9Z6395yrwIP+s3/ThG7y55qa+cgzgpck83oasX8sUop6oOJg51pPZHfbHpE5nb/
+hyf7Z10MYwInVbHpq8urTIYWlqOeUSn/4YUc8MS+jhiSIE2cZ4v3a/DrVNfgnGb9
+5nqt0SI3XqP+dWSUkzOBCqzaMD25zwchO1FKi1hXqaJB3Gz6Fork1PZcxd13tyrs
+Fw5PoBIQEEb7UXlcBrRzZpeib5C/PdzWLZKbcOqCJJYgA9v26uqISEjmgh5S9ybw
+kpmZ9cVwYgBzth1bOY/cGl4MjsdHYpLAvUwfW5lZg8mEbGzYY5QltMig1OpMAA30
+lYzvuU4h+rLDL8Impa+zUMlx3s1f0ZJvR5YVh3m9NEBEeaR06O3Yh/8fGg==
+-----END CERTIFICATE-----
